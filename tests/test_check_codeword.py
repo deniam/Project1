@@ -10,4 +10,4 @@ def test_check_codeword_first_and_last_letter_same():
 
 def test_check_codeword_wrong():
     result = check_codeword('dsfdsfds')
-    assert result == ('WRONG!')
+    assert result == ('WRONG!') 
